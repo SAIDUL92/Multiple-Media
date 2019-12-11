@@ -1,0 +1,785 @@
+/* Normal desktop :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .mainmenu ul li {
+        margin-left: 35px;
+    }
+    .separetor {
+        display: inline-block;
+        margin: 0 5px;
+    }
+    .footer-menu ul li a {
+        font-size: 13px;
+    }
+    .footer-menu ul li a img {
+        margin-right: 5px;
+    }
+    .footer-widget p {
+        font-size: 13px;
+    }
+    .footer-logo {
+        margin-left: 0px;
+    }
+    .Chameleon-section {
+        padding: 0;
+    }
+    .Chameleon-text h4 {
+        font-size: 21px;
+    }
+    .myposition-ab {
+        padding-top: 20px;
+    }
+    .over-lay-5 {
+        padding: 20px 20px;
+        margin-top: 30px;
+    }
+    .over-lay-5 p {
+        margin-bottom: 15px;
+    }
+}
+
+
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .mainmenu ul li {
+        margin-left: 15px;
+    }
+    .mainmenu ul li a {
+        font-size: 14px;
+    }
+    .dropdown-menu.show {
+        transform: translate3d(-65px, 21px, 0px)!important;
+        -webkit-transform: translate3d(-65px, 21px, 0px)!important;
+        -moz-transform: translate3d(-65px, 21px, 0px)!important;
+        -ms-transform: translate3d(-65px, 21px, 0px)!important;
+        -o-transform: translate3d(-65px, 21px, 0px)!important;
+    }
+    .footer-logo {
+        margin: 20px 0;
+    }
+    .Chameleon-section {
+        padding: 0;
+    }
+    .Chameleon-text h5 {
+        font-size: 21px;
+    }
+    .Chameleon-text h4 {
+        font-size: 17px;
+    }
+    .Chameleon-text p {
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+    .Chameleon-text p:last-child {
+        margin-bottom: 0px;
+    }
+    .single-camera h2 {
+        font-size: 34px;
+    }
+    .Chameleon-info h5 {
+        font-size: 14px;
+    }
+    .over-lay-2 {
+        padding: 90px 35px;
+    }
+    .Description h3 {
+        font-size: 23px;
+    }
+    .Photographer h3 {
+        font-size: 21px;
+    }
+    .heading h2.font-weight-500 {
+        font-size: 32px;
+    }
+    span.font-size-23 {
+        font-size: 17px;
+    }
+    .vedio-section-2-footer h3 {
+        font-size: 20px;
+    }
+    .single-form-check1 {
+        position: absolute;
+        top: 0;
+        left: 14px;
+        width: 13%;
+        height: 100%;
+        background: #F9F9F9;
+    }
+    .control-label1 {
+        top: -5px;
+        left: 5px;
+    }
+    .myposition-ab {
+        padding-top: 8px;
+    }
+    .over-lay-5 {
+        padding: 20px 20px;
+        margin-top: 30px;
+    }
+    .over-lay-5 p {
+        margin-bottom: 5px;
+        font-size: 12px;
+    }
+    .face-book-p br {
+        display: none;
+    }
+    .face-book-pp {
+        top: 375px !important;
+    }
+    .face-book-p {
+        top: 265px;
+    }
+    .face-book-hr::after {
+        width: 245px;
+        left: -125px;
+    }
+    .dotss::after {
+        right: 60px;
+    }
+    .face-book-hr2 span::before {
+        left: 124px;
+    }
+    .face-book-hr::before {
+        left: -155px;
+    }
+    .face-book-hr span::before {
+        right: -146px;
+    }
+    .dotss::before {
+        left: -151px;
+    }
+    .slider-caption h3 {
+        font-size: 30px;
+    }
+    .seclect-bar2 {
+        position: absolute;
+        top: 28px;
+        right: 109px;
+        background: 0;
+    }
+}
+
+
+/* Tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .slider-caption {
+        padding-top: 80px;
+    }
+    .heading {
+        margin-bottom: 60px;
+    }
+    .slider-caption>p {
+        font-size: 21px;
+    }
+    .Description h3 {
+        font-size: 17px;
+    }
+    .footer-logo {
+        margin: 20px 0;
+    }
+    .Description-2 h3 {
+        font-size: 17px;
+    }
+    .Chameleon-section {
+        padding: 0;
+    }
+    .Chameleon-text p {
+        margin-bottom: 15px;
+    }
+    .Chameleon-text p:last-child {
+        margin-bottom: 0px;
+    }
+    .Chameleon-text {
+        padding: 50px 0;
+    }
+    .single-camera h2 {
+        font-size: 25px;
+    }
+    .single-camera p {
+        font-size: 20px;
+    }
+    .Chameleon-info h5 {
+        font-size: 10px;
+    }
+    .over-lay-2 {
+        padding: 90px 35px;
+    }
+    .heading h2 {
+        font-size: 33px;
+    }
+    .heading h2.font-weight-500 {
+        font-size: 33px;
+    }
+    h3.feature-h3 {
+        font-size: 16px;
+    }
+    .Photographer h3 {
+        font-size: 15px;
+    }
+    .icon-image h5 {
+        font-size: 11px;
+    }
+    .icon-image {
+        width: 100px;
+    }
+    .vedio-section-2-footer h3 p {
+        margin-top: 10px;
+    }
+    .single-form-input input {
+        width: 62%;
+    }
+    .single-form-input2 input {
+        width: 62%;
+    }
+    .custom-control-label1::before {
+        top: 2px;
+        left: -25px;
+    }
+    .single-form-inputtp {
+        padding-bottom: 105px;
+    }
+    .myposition-ab {
+        padding-top: 0;
+    }
+    .over-lay-5 {
+        padding: 20px 20px;
+        margin-top: 0;
+    }
+    .over-lay-5 p {
+        margin-bottom: 5px;
+        font-size: 12px;
+    }
+    .heading-mb-0 {
+        margin-bottom: 0;
+    }
+    .face-book-p br {
+        display: none;
+    }
+    .face-book-pp {
+        top: 185px !important;
+    }
+    .face-book-p {
+        top: 63px;
+    }
+    .face-book-hr::after {
+        width: 110px;
+        left: -85px;
+    }
+    .dotss::after {
+        right: 95px;
+    }
+    .face-book-hr2 span::before {
+        left: 29px;
+    }
+    .face-book-hr::before {
+        left: -115px;
+    }
+    .face-book-hr span::before {
+        right: -51px;
+    }
+    .dotss::before {
+        left: -111px;
+    }
+    .slider-caption h3 {
+        font-size: 23px;
+    }
+}
+
+
+/* small mobile :320px. */
+
+@media (max-width: 767px) {
+    .header-area {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .slider-caption {
+        padding-top: 40px;
+    }
+    .heading {
+        margin-bottom: 30px;
+    }
+    .slider-caption>p {
+        font-size: 20px;
+    }
+    .heading h2 {
+        font-size: 25px;
+    }
+    .heading span {
+        font-size: 14px;
+    }
+    .slider-caption-info {
+        padding: 50px 15px;
+    }
+    .slider-caption h3 {
+        font-size: 31px;
+    }
+    .single-slider {
+        padding-bottom: 60px;
+    }
+    .heading h2.font-size-20 {
+        font-size: 20px;
+    }
+    .Description-area {
+        padding: 50px 0;
+    }
+    .Description h3 {
+        font-size: 21px;
+    }
+    .team-section {
+        height: 600px;
+    }
+    .team h3 {
+        font-size: 20px;
+    }
+    .team h5 {
+        font-size: 14px;
+    }
+    .footer-menu ul {
+        display: block !important;
+    }
+    .footer-menu ul li {
+        margin-bottom: 10px;
+    }
+    .footer-menu ul li:last-child {
+        margin-bottom: 0px;
+    }
+    .footer-menu {
+        text-align: center;
+    }
+    .footer-logo {
+        margin: 20px 0;
+    }
+    .over-lay {
+        width: 100%;
+        margin-left: 0;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        height: 290px;
+    }
+    .over-lay h3 {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 30px;
+    }
+    .over-lay p br {
+        display: none;
+    }
+    .Description-2 h3 {
+        font-size: 15px;
+    }
+    .Chameleon-section {
+        padding: 0;
+    }
+    .Chameleon-text {
+        padding: 50px 0;
+    }
+    .Chameleon-text h5 {
+        font-size: 11px;
+    }
+    .Chameleon-text h3 {
+        margin-bottom: 20px;
+        margin-top: 5px;
+        font-size: 18px;
+        margin-top: 10px;
+    }
+    .Chameleon-text h4 {
+        margin-bottom: 22px;
+        font-size: 14px;
+    }
+    .Chameleon-text p {
+        font-size: 14px;
+    }
+    .heading h5 {
+        font-size: 12px;
+    }
+    .heading h2.font-weight-500 {
+        font-size: 18px;
+    }
+    .add-area {
+        padding: 40px 0;
+    }
+    .add a.btn-2 {
+        width: 100%;
+    }
+    .camera-area {
+        padding: 50px 0;
+    }
+    .single-camera-2 {
+        margin-top: 30px;
+    }
+    .single-camera h2 {
+        font-size: 18px;
+    }
+    .single-camera p {
+        font-size: 15px;
+    }
+    .Chameleon-info h5 {
+        margin-bottom: 20px;
+    }
+    .Chameleon-info h5:last-child {
+        margin-bottom: 0px;
+    }
+    .mbt-20 {
+        margin-top: 20px;
+    }
+    .Chameleon-info h5 {
+        font-size: 9px;
+    }
+    .over-lay-2 {
+        padding: 50px 15px;
+    }
+    .mob-30 {
+        margin-bottom: 30px;
+    }
+    span.mvl {
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 20px;
+        display: block;
+        margin-top: 15px;
+    }
+    .heading span span {
+        margin-top: 10px;
+        display: block;
+    }
+    .contact-d-area {
+        padding: 50px 0;
+    }
+    .contact-info-inner {
+        padding: 25px 0;
+    }
+    .contact-info-inner-right {
+        padding: 25px 0;
+    }
+    .contact-info h3 {
+        font-size: 18px;
+    }
+    .heading-2 h6 {
+        font-size: 16px;
+    }
+    .heading-2 h4 {
+        font-size: 25px;
+    }
+    .feature-h3 {
+        font-size: 20px !important;
+    }
+    .feature-section {
+        padding: 50px 0;
+    }
+    .my-pb {
+        padding-bottom: 0px;
+    }
+    .font-size-17 {
+        font-size: 17px !important;
+    }
+    .font-size-12 {
+        font-size: 12px !important;
+    }
+    .Photographer h3 {
+        font-size: 18px !important;
+    }
+    .heading h2.font-size-15 {
+        font-size: 15px!important;
+    }
+    .over-lay-3 {
+        padding: 50px 0;
+    }
+    .over-lay-4 {
+        padding: 50px 15px;
+        position: relative;
+    }
+    span.font-size-23 {
+        font-size: 11px !important;
+    }
+    .icon-gallery {
+        width: 100%;
+        display: block !important;
+    }
+    .icon-image {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .heading h3 {
+        font-size: 24px;
+    }
+    .Photographer-area {
+        padding: 50px 0;
+    }
+    .vedio-section {
+        padding: 50px 0;
+    }
+    .vedio-section-2-footer h3 {
+        font-size: 10px;
+    }
+    .vedio-section-2-footer h3 p span {
+        font-size: 6px;
+        position: relative;
+        top: -7px;
+        left: -5px;
+    }
+    .vedio-section-2 {
+        padding: 50px 0;
+    }
+    .single-form-inputtp {
+        padding-bottom: 30px;
+        margin-bottom: 20px;
+    }
+    .single-form-input2 label {
+        margin-right: 0;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .single-form-input input {
+        width: 100%;
+    }
+    .single-form-input2 input {
+        width: 100%;
+    }
+    .catpch a {
+        margin-top: 20px;
+    }
+    .Videographer-form-area {
+        padding: 50px 0;
+    }
+    .mmb-0 {
+        padding: 0;
+    }
+    .single-form-check1 {
+        position: absolute;
+        top: 0;
+        left: 25px;
+        width: 9%;
+        height: 100%;
+        background: #F9F9F9;
+    }
+    .custom-control-label1::before {
+        width: 26px;
+        height: 25px;
+        top: -1px;
+        left: -28px;
+        background: transparent;
+        cursor: pointer;
+    }
+    .control-label1 {
+        top: 10px;
+        left: 5px;
+    }
+    .myposition-ab {
+        padding-top: 0;
+    }
+    .over-lay-5 {
+        padding: 20px 20px;
+        margin-top: 0;
+    }
+    .over-lay-5 p {
+        margin-bottom: 5px;
+        font-size: 12px;
+    }
+    .heading-mb-0 {
+        margin-bottom: 0;
+    }
+    .over-lay-5 h4 {
+        font-size: 15px;
+    }
+    .over-lay-5 span {
+        font-size: 11px;
+    }
+    .feature-img a.btn {
+        margin-top: 70px;
+        width: 100%;
+    }
+    .feature-img a.btn3 {
+        font-size: 10px;
+    }
+    .face-book-p br {
+        display: none;
+    }
+    .face-book-p {
+        position: relative;
+        top: 0;
+        margin-bottom: 50px;
+    }
+    .face-book-pp {
+        margin-bottom: 0 !important;
+        margin-top: 50px;
+    }
+    .face-book-hr {
+        display: none;
+    }
+    .slider-btn a.btn-wow1 {
+        margin-top: 20px;
+    }
+    .social-baner-area {
+        padding: 50px 0;
+    }
+    .feature-img a.btn3 {
+        font-size: 9px;
+        margin: 0;
+    }
+    .slider-active3 .owl-dots {
+        bottom: -40px;
+    }
+    .slider-caption h3.myfont-size {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .MVLVideomaker-over-lay {
+        padding: 50px 15px;
+    }
+    .MVLVideomaker-over-lay h3 {
+        font-size: 30px;
+    }
+    .MVLVideomaker-over-lay h5 {
+        font-size: 14px;
+    }
+    .MVLVideomaker-section {
+        padding: 100px 0;
+    }
+    .MVLVideomaker-over-lay2 h5 {
+        font-size: 18px;
+    }
+    .MVLVideomaker-section2 {
+        padding: 100px 0;
+    }
+    .seclect-bar2 {
+        position: absolute;
+        top: 46px;
+        right: 10px;
+        background: 0;
+    }
+}
+
+
+/* Large Mobile :480px. */
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .slider-caption-info {
+        padding: 50px 40px;
+    }
+    .slider-caption h3 {
+        font-size: 25px;
+    }
+    .slider-active3 .owl-dots {
+        bottom: -40px;
+    }
+    .team h3 {
+        font-size: 36px;
+    }
+    .team h5 {
+        font-size: 24px;
+    }
+    .footer-menu ul {
+        display: flex !important;
+    }
+    .footer-menu ul li {
+        margin-bottom: 0px;
+    }
+    .footer-menu ul li a {
+        font-size: 13px;
+    }
+    .over-lay {
+        height: 300px;
+    }
+    .over-lay h3 {
+        font-size: 16px;
+        line-height: 40px;
+        margin-bottom: 30px;
+    }
+    .Chameleon-text h4 {
+        font-size: 20px;
+    }
+    .heading h5 {
+        font-size: 24px;
+    }
+    .heading h2.font-weight-500 {
+        font-size: 36px;
+    }
+    .add a.btn-2 {
+        width: 378px;
+    }
+    .single-camera h2 {
+        font-size: 36px;
+    }
+    .single-camera p {
+        font-size: 24px;
+    }
+    .over-lay-2 {
+        padding: 90px 35px;
+    }
+    span.mvl {
+        display: inline-block;
+        margin-top: 0;
+    }
+    .heading span span {
+        margin-top: 0;
+        display: inline-block;
+    }
+    .heading-2 h6 {
+        font-size: 24px;
+    }
+    .heading-2 h4 {
+        font-size: 36px;
+    }
+    .font-size-17 {
+        font-size: 25px !important;
+    }
+    .font-size-12 {
+        font-size: 18px !important;
+    }
+    .Photographer h3 {
+        font-size: 24px !important;
+    }
+    .heading h2.font-size-15 {
+        font-size: 25px !important;
+    }
+    .icon-image {
+        width: 50%;
+        margin-top: 20px;
+        float: left;
+    }
+    span.font-size-23 {
+        font-size: 14px !important;
+    }
+    .vedio-section-2-footer h3 {
+        font-size: 20px;
+    }
+    .vedio-section-2-footer h3 p {
+        margin-top: 15px;
+    }
+    .vedio-section-2-footer h3 p span {
+        font-size: 15px;
+    }
+    .custom-control-label1::before {
+        top: 2px;
+        left: -25px;
+    }
+    .over-lay-5 h4 {
+        font-size: 20px;
+    }
+    .over-lay-5 p {
+        margin-bottom: 0px;
+        font-size: 12px;
+    }
+    .feature-img a.btn {
+        margin-top: 70px;
+        width: 428px;
+    }
+    .feature-img a.btn3 {
+        font-size: inherit;
+    }
+    .feature-img a.btn3 {
+        font-size: 10px;
+    }
+    .slider-caption h3.myfont-size {
+        font-size: 18px;
+        line-height: inherit;
+    }
+    .MVLVideomaker-over-lay2 h5 {
+        font-size: 24px;
+    }
+}
